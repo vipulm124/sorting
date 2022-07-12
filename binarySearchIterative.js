@@ -5,7 +5,7 @@ function binarySearch(arr, val) {
     
 
     while (low <= high) {
-        mid = parseInt(low + (high - low) / 2);
+        let mid = parseInt(low + (high - low) / 2);
         //element is on left
         if (val < arr[mid]) {
             high = mid - 1;
