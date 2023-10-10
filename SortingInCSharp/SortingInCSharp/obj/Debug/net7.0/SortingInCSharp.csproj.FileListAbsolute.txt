@@ -1,0 +1,15 @@
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/bin/Debug/net7.0/SortingInCSharp
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/bin/Debug/net7.0/SortingInCSharp.deps.json
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/bin/Debug/net7.0/SortingInCSharp.runtimeconfig.json
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/bin/Debug/net7.0/SortingInCSharp.dll
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/bin/Debug/net7.0/SortingInCSharp.pdb
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/obj/Debug/net7.0/SortingInCSharp.csproj.AssemblyReference.cache
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/obj/Debug/net7.0/SortingInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/obj/Debug/net7.0/SortingInCSharp.AssemblyInfoInputs.cache
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/obj/Debug/net7.0/SortingInCSharp.AssemblyInfo.cs
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/obj/Debug/net7.0/SortingInCSharp.csproj.CoreCompileInputs.cache
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/obj/Debug/net7.0/SortingInCSharp.dll
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/obj/Debug/net7.0/refint/SortingInCSharp.dll
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/obj/Debug/net7.0/SortingInCSharp.pdb
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/obj/Debug/net7.0/SortingInCSharp.genruntimeconfig.cache
+/Users/vipulmalhotra/Documents/source/repo/sorting/SortingInCSharp/SortingInCSharp/obj/Debug/net7.0/ref/SortingInCSharp.dll
